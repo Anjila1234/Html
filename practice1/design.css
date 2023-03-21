@@ -1,0 +1,32 @@
+h1{
+    color: blueviolet;
+    font-style: initial;
+    font-display:swap ;
+    font-style: unset;
+
+
+}
+.services {
+color :blue;
+background-color: red;
+background-image: url(anjilae.jpg);
+
+}
+p{
+    color :blue;
+    font-size: larger;
+    border-color: black;
+    font-display: swap;
+ font-weight: 400;
+
+}
+
+.courses {
+    color: blueviolet;
+    background-image: url(an.jpg) ;
+}
+
+address{
+    color: aqua;
+    background-position: 0cqmin;
+}
